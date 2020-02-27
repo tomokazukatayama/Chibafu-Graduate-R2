@@ -2,7 +2,7 @@
 title: "記事一覧"
 slug: "blogs"
 image: pic02.jpg
-date: 2017-10-31T22:27:21-05:00
+date: 2020-02-28T01:59:36+09:00
 draft: false
 ---
 
